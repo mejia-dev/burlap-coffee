@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/burlap-coffee/static/css/main.93a0497a.css",
+    "main.js": "/burlap-coffee/static/js/main.82301d99.js",
+    "static/js/787.892fc010.chunk.js": "/burlap-coffee/static/js/787.892fc010.chunk.js",
+    "index.html": "/burlap-coffee/index.html",
+    "main.93a0497a.css.map": "/burlap-coffee/static/css/main.93a0497a.css.map",
+    "main.82301d99.js.map": "/burlap-coffee/static/js/main.82301d99.js.map",
+    "787.892fc010.chunk.js.map": "/burlap-coffee/static/js/787.892fc010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.82301d99.js"
+  ]
+}
